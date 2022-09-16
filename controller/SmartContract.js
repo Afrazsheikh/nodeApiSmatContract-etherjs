@@ -11,7 +11,7 @@ const { Console } = require("console");
 
 const CONTRACT_ADDRESS = '0x61a49b2084fd3Cec9cAd918B231AfC856f561D5B';
 let provider = new ethers.providers.JsonRpcProvider("https://rpc-mumbai.maticvigil.com");
-let privatekey = "1ab129de18e2934201d88fe80c7f842efc13e2c13fee8e8e1ca01e3368d040c4"
+let privatekey = "Private key"
 
 
 // //connecting to the ipfs network 
